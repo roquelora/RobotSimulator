@@ -1,0 +1,7 @@
+#Ignore internal visual studio files
+.vs
+
+#Ignore binaries and objects
+RobotSimulator/bin
+RobotSimulator/obj
+Tests/obj
